@@ -109,5 +109,5 @@ The project is optimized for Google Colab usage.
 - [ ] **Genre Classification**: Machine learning model to predict rock, pop, jazz, etc. based on lyrical structure.
 
 ---
-**Author**: Vedant
+**Author**: Vedant lawate
 **License**: MIT
